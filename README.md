@@ -3,7 +3,7 @@
 [![Chat - Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/LibreTorrent)
 [<img alt="Coverity Scan Build Status" src="https://scan.coverity.com/projects/14421/badge.svg">](https://scan.coverity.com/projects/proninyaroslav-libretorrent)
 
-LibreTorrent
+Full Torrent
 =====================
 
 ![LibreTorrent](fastlane/metadata/android/en-US/images/featureGraphic.png)
