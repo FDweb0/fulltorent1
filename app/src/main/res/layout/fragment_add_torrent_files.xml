@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.addtorrent.AddTorrentViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.addtorrent.AddTorrentViewModel" />
     </data>
 
     <RelativeLayout

@@ -6,7 +6,7 @@
         android:layout_height="match_parent"
         android:padding="@dimen/dialog_padding">
 
-        <org.proninyaroslav.libretorrent.ui.customviews.EmptyRecyclerView
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.EmptyRecyclerView
             android:id="@+id/tags_list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

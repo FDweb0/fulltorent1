@@ -20,7 +20,7 @@
                 layout="@layout/toolbar" />
 
             <androidx.fragment.app.FragmentContainerView
-                class="org.proninyaroslav.libretorrent.ui.main.MainFragment"
+                class="com.full.torrent.no.ads.private1.encrypted.ui.main.MainFragment"
                 android:id="@+id/main_fragmentContainer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"

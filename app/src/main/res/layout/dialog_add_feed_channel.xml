@@ -4,10 +4,10 @@
 
     <data>
         <import type="android.view.View" />
-        <import type="org.proninyaroslav.libretorrent.ui.addfeed.AddFeedViewModel" />
+        <import type="com.full.torrent.no.ads.private1.encrypted.ui.addfeed.AddFeedViewModel" />
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.addfeed.AddFeedViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.addfeed.AddFeedViewModel" />
     </data>
 
     <androidx.core.widget.NestedScrollView

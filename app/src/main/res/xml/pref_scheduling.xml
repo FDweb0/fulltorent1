@@ -8,7 +8,7 @@
         app:singleLineTitle="false"
         android:persistent="false" />
 
-    <org.proninyaroslav.libretorrent.ui.settings.customprefs.TimePreference
+    <com.full.torrent.no.ads.private1.encrypted.ui.settings.customprefs.TimePreference
         android:key="@string/pref_key_scheduling_start_time"
         android:positiveButtonText="@string/ok"
         android:negativeButtonText="@string/cancel"
@@ -23,7 +23,7 @@
         app:singleLineTitle="false"
         android:persistent="false" />
 
-    <org.proninyaroslav.libretorrent.ui.settings.customprefs.TimePreference
+    <com.full.torrent.no.ads.private1.encrypted.ui.settings.customprefs.TimePreference
         android:key="@string/pref_key_scheduling_shutdown_time"
         android:positiveButtonText="@string/ok"
         android:negativeButtonText="@string/cancel"

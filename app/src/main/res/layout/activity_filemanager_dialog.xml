@@ -6,9 +6,9 @@
     <data>
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.filemanager.FileManagerViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.filemanager.FileManagerViewModel" />
         <import
-            type="org.proninyaroslav.libretorrent.ui.filemanager.FileManagerConfig" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.filemanager.FileManagerConfig" />
         <import
             type="android.view.View" />
         <import
@@ -47,7 +47,7 @@
                 style="@style/AppTheme.Toolbar.Spinner" />
         </com.google.android.material.appbar.AppBarLayout>
 
-        <org.proninyaroslav.libretorrent.ui.customviews.ThemedSwipeRefreshLayout
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSwipeRefreshLayout
             android:id="@+id/swipe_container"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
                 android:scrollbars="vertical"
                 android:focusable="true"
                 android:scrollbarStyle="outsideOverlay" /> <!-- Need for padding -->
-        </org.proninyaroslav.libretorrent.ui.customviews.ThemedSwipeRefreshLayout>
+        </com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSwipeRefreshLayout>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/add_fab"

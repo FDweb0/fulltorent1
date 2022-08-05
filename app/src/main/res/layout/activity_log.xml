@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.log.LogViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.log.LogViewModel" />
     </data>
 
     <RelativeLayout
@@ -25,7 +25,7 @@
             android:layout_height="match_parent"
             android:layout_below="@id/toolbar">
 
-            <org.proninyaroslav.libretorrent.ui.customviews.SwitchBar
+            <com.full.torrent.no.ads.private1.encrypted.ui.customviews.SwitchBar
                 android:id="@+id/enableLog"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
                 android:layout_height="match_parent"
                 android:layout_below="@id/enableLog">
 
-                <org.proninyaroslav.libretorrent.ui.customviews.EmptyRecyclerView
+                <com.full.torrent.no.ads.private1.encrypted.ui.customviews.EmptyRecyclerView
                     android:id="@+id/log_list"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"

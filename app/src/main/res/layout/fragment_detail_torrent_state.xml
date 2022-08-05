@@ -3,12 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <data>
-        <import type="org.proninyaroslav.libretorrent.core.utils.BindingAdapterUtils" />
-        <import type="org.proninyaroslav.libretorrent.core.utils.DateUtils" />
+        <import type="com.full.torrent.no.ads.private1.encrypted.core.utils.BindingAdapterUtils" />
+        <import type="com.full.torrent.no.ads.private1.encrypted.core.utils.DateUtils" />
         <import type="java.util.Formatter" />
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.detailtorrent.DetailTorrentViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.detailtorrent.DetailTorrentViewModel" />
     </data>
 
     <androidx.core.widget.NestedScrollView

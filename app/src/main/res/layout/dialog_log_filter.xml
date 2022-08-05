@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.log.LogViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.log.LogViewModel" />
     </data>
 
     <LinearLayout

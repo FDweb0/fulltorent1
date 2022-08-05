@@ -7,13 +7,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <org.proninyaroslav.libretorrent.ui.customviews.ThemedSwipeRefreshLayout
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSwipeRefreshLayout
             android:id="@+id/swipe_container"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-            <org.proninyaroslav.libretorrent.ui.customviews.EmptyRecyclerView
+            <com.full.torrent.no.ads.private1.encrypted.ui.customviews.EmptyRecyclerView
                 android:id="@+id/feed_list"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -22,7 +22,7 @@
                 android:scrollbars="vertical"
                 android:focusable="true"
                 android:scrollbarStyle="outsideOverlay" /> <!-- Need for padding -->
-        </org.proninyaroslav.libretorrent.ui.customviews.ThemedSwipeRefreshLayout>
+        </com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSwipeRefreshLayout>
 
         <TextView
             android:id="@+id/empty_view_feeds"

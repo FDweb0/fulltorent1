@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
-    <org.proninyaroslav.libretorrent.ui.customviews.SwitchBar
+    <com.full.torrent.no.ads.private1.encrypted.ui.customviews.SwitchBar
         android:id="@+id/switchButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

@@ -4,10 +4,10 @@
 
     <data>
         <import type="android.view.View" />
-        <import type="org.proninyaroslav.libretorrent.ui.createtorrent.CreateTorrentViewModel" />
+        <import type="com.full.torrent.no.ads.private1.encrypted.ui.createtorrent.CreateTorrentViewModel" />
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.createtorrent.CreateTorrentViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.createtorrent.CreateTorrentViewModel" />
     </data>
 
     <androidx.core.widget.NestedScrollView
@@ -140,7 +140,7 @@
                         android:layout_height="wrap_content"
                         app:hintEnabled="false">
 
-                        <org.proninyaroslav.libretorrent.ui.customviews.FixHintTextInputEditText
+                        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.FixHintTextInputEditText
                             android:id="@+id/skip_files"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -169,7 +169,7 @@
                         android:layout_height="wrap_content"
                         app:hintEnabled="false">
 
-                        <org.proninyaroslav.libretorrent.ui.customviews.FixHintTextInputEditText
+                        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.FixHintTextInputEditText
                             android:id="@+id/tracker_urls"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -197,7 +197,7 @@
                         android:layout_height="wrap_content"
                         app:hintEnabled="false">
 
-                        <org.proninyaroslav.libretorrent.ui.customviews.FixHintTextInputEditText
+                        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.FixHintTextInputEditText
                             android:id="@+id/web_seed_urls"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -246,7 +246,7 @@
                         android:layout_height="wrap_content"
                         app:hintEnabled="false">
 
-                        <org.proninyaroslav.libretorrent.ui.customviews.FixHintTextInputEditText
+                        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.FixHintTextInputEditText
                             android:id="@+id/comments"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"

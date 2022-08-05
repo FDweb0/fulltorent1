@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <org.proninyaroslav.libretorrent.ui.customviews.EmptyRecyclerView
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.EmptyRecyclerView
             android:id="@+id/torrent_list"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -30,7 +30,7 @@
             android:layout_height="match_parent"
             android:background="?attr/speedDialOverlayColor" />
 
-        <org.proninyaroslav.libretorrent.ui.customviews.ThemedSpeedDialView
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSpeedDialView
             android:id="@+id/fab_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

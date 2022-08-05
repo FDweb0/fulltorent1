@@ -5,7 +5,7 @@
         <import type="android.view.View" />
         <variable
             name="viewModel"
-            type="org.proninyaroslav.libretorrent.ui.addlink.AddLinkViewModel" />
+            type="com.full.torrent.no.ads.private1.encrypted.ui.addlink.AddLinkViewModel" />
     </data>
 
     <RelativeLayout

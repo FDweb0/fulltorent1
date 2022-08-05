@@ -13,7 +13,7 @@
         android:focusable="true"
         android:background="?attr/dialogRectRipple">
 
-        <org.proninyaroslav.libretorrent.ui.customviews.ColorView
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.ColorView
             android:id="@+id/color"
             android:layout_width="16dp"
             android:layout_height="16dp"

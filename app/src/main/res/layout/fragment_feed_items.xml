@@ -25,20 +25,20 @@
                 android:focusable="true" />
         </com.google.android.material.appbar.AppBarLayout>
 
-        <org.proninyaroslav.libretorrent.ui.customviews.ThemedSwipeRefreshLayout
+        <com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSwipeRefreshLayout
             android:id="@+id/swipe_container"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-            <org.proninyaroslav.libretorrent.ui.customviews.EmptyRecyclerView
+            <com.full.torrent.no.ads.private1.encrypted.ui.customviews.EmptyRecyclerView
                 android:id="@+id/feed_items_list"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_below="@id/app_bar"
                 android:scrollbars="vertical"
                 android:focusable="true" />
-        </org.proninyaroslav.libretorrent.ui.customviews.ThemedSwipeRefreshLayout>
+        </com.full.torrent.no.ads.private1.encrypted.ui.customviews.ThemedSwipeRefreshLayout>
 
         <TextView
             android:id="@+id/empty_view_feed_items"
