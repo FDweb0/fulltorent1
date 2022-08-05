@@ -6,7 +6,7 @@
 Full Torrent
 =====================
 
-[comment]: <> (![LibreTorrent]&#40;fastlane/metadata/android/en-US/images/featureGraphic.png&#41;)
+![LibreTorrent](fastlane/metadata/android/en-US/images/featureGraphic.png)
 
 [comment]: <> ([<img alt="Get it on F-Droid" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/F-Droid/get-it-on.png">]&#40;https://f-droid.org/app/org.proninyaroslav.libretorrent&#41;)
 
