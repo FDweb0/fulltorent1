@@ -338,8 +338,8 @@
     <string name="pref_streaming_port">Port</string>
     <string name="pref_streaming_error">Selected port or hostname for streaming is busy or incorrect. Please fix it</string>
     <!-- About dialog -->
-    <string name="about_title">About LibreTorrent</string>
-    <string name="about_description">More information and also to help the project: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt; LibreTorrent is free software, released under the terms of the &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt;</string>
+    <string name="about_title">About Full Torrent</string>
+    <string name="about_description">More information and also to help the project: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt; Full Torrent is free software, released under the terms of the &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt;</string>
     <string name="delete_torrent_with_downloaded_files">ᱰᱟᱩᱱᱞᱳᱰ ᱠᱟᱱ ᱨᱮᱫᱠᱚ ᱥᱟᱞᱟᱜ ᱢᱮᱴᱟᱣ ᱢᱮ</string>
     <string name="switch_off">ᱵᱚᱸᱫ</string>
     <string name="apply">ᱮᱢ ᱪᱷᱚ</string>

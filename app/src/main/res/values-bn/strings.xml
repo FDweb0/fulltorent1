@@ -403,8 +403,8 @@
     <string name="pref_streaming_port">Port</string>
     <string name="pref_streaming_error">Selected port or hostname for streaming is busy or incorrect. Please fix it</string>
     <!-- About dialog -->
-    <string name="about_title">LibreTorrent এর সম্পর্কে</string>
-    <string name="about_description">আরও তথ্য এবং প্রকল্পে সাহায্য করার জন্য: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent Android 4+ এর জন্য libtorrent-এর উপর ভিত্তি করে একটি বিনামূল্যের ও উম্মুক্ত টরেন্ট ক্লায়েন্ট , (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt; LibreTorrent হল একটি বিনামূল্যের সফটওয়্যার, যা &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU জেনারেল পাবলিক লাইসেন্স v3 (GPLv3) &lt;/a&gt; এর শর্তাবলীর অধীনে প্রকাশিত।</string>
+    <string name="about_title">Full Torrent এর সম্পর্কে</string>
+    <string name="about_description">আরও তথ্য এবং প্রকল্পে সাহায্য করার জন্য: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent Android 4+ এর জন্য libtorrent-এর উপর ভিত্তি করে একটি বিনামূল্যের ও উম্মুক্ত টরেন্ট ক্লায়েন্ট , (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt; Full Torrent হল একটি বিনামূল্যের সফটওয়্যার, যা &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU জেনারেল পাবলিক লাইসেন্স v3 (GPLv3) &lt;/a&gt; এর শর্তাবলীর অধীনে প্রকাশিত।</string>
     <string name="torrent_uploaded">আপলোডকৃত</string>
     <string name="torrent_leechers">লিচার</string>
     <string name="torrent_peers">অন্যরা</string>

@@ -95,7 +95,7 @@
     <!-- status • name -->
     <string name="other_torrent_notify_template">%1$s • %2$s</string>
     <string name="torrent_count_notify_template">डाउनलोड कर रहा है: %1$d Total: %2$d</string>
-    <string name="app_running_in_the_background">LibreTorrent पृष्ठभूमि में चल रहा है</string>
+    <string name="app_running_in_the_background">Full Torrent पृष्ठभूमि में चल रहा है</string>
     <string name="network_online">नेटवर्क स्थिति: ऑनलाइन</string>
     <string name="network_offline">नेटवर्क स्थिति: ऑफ़लाइन</string>
     <!-- Error notification -->
@@ -489,8 +489,8 @@
     <string name="pref_streaming_port">बंदरगाह</string>
     <string name="pref_streaming_error">स्ट्रीमिंग के लिए चयनित पोर्ट या होस्टनाम व्यस्त या गलत है। कृपया इसे ठीक करे</string>
     <!-- About dialog -->
-    <string name="about_title">LibreTorrent के बारे में</string>
-    <string name="about_description">अधिक जानकारी और परियोजना को मदद करने के लिए &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent एंड्रॉइड 4+ के लिए फ्रीडम टोरेंट क्लाइंट में एक फ्री है, जो कि libtorrent (Java आवरण &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) लिब पर आधारित है।।&lt;br&gt;&lt;br&gt; LibreTorrent मुफ्त सॉफ्टवेयर है, जो &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; की शर्तों के तहत जारी किया गया है</string>
+    <string name="about_title">Full Torrent के बारे में</string>
+    <string name="about_description">अधिक जानकारी और परियोजना को मदद करने के लिए &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent एंड्रॉइड 4+ के लिए फ्रीडम टोरेंट क्लाइंट में एक फ्री है, जो कि libtorrent (Java आवरण &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) लिब पर आधारित है।।&lt;br&gt;&lt;br&gt; Full Torrent मुफ्त सॉफ्टवेयर है, जो &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; की शर्तों के तहत जारी किया गया है</string>
     <string name="about_changelog">बदलाव का</string>
     <string name="apply">लागू करे</string>
     <string name="drawer_sorting_size">माप</string>

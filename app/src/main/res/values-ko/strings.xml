@@ -111,7 +111,7 @@
     <!-- status • name -->
     <string name="other_torrent_notify_template">%1$s • %2$s</string>
     <string name="torrent_count_notify_template">다운로드 중: %1$d 전체: %2$d</string>
-    <string name="app_running_in_the_background">LibreTorrent가 백그라운드에서 실행 중입니다.</string>
+    <string name="app_running_in_the_background">Full Torrent가 백그라운드에서 실행 중입니다.</string>
     <string name="network_online">네트워크 상태: 온라인</string>
     <string name="network_offline">네트워크 상태: 오프라인</string>
     <string name="notify_shutting_down">종료 중…</string>
@@ -532,8 +532,8 @@
     <string name="pref_streaming_port">포트</string>
     <string name="pref_streaming_error">스트리밍으로 지정된 포트나 호스트네임이 사용중이거나 올바르지 않습니다. 해결 후 시도하세요.</string>
     <!-- About dialog -->
-    <string name="about_title">LibreTorrent 정보</string>
-    <string name="about_description">더 많은 정보 및 프로젝트 돕기: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent는 libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) 라이브러리를 기반으로, 안드로이드 4 이상 버전을 지원하는 자유 토렌트 클라이언트이며 무료입니다. is a Free as in Freedom torrent client for Android 4+, based on &lt;br&gt;&lt;br&gt; LibreTorrent는 무료 소프트웨어이며, &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; 약관을 기반으로 합니다.</string>
+    <string name="about_title">Full Torrent 정보</string>
+    <string name="about_description">더 많은 정보 및 프로젝트 돕기: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent는 libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) 라이브러리를 기반으로, 안드로이드 4 이상 버전을 지원하는 자유 토렌트 클라이언트이며 무료입니다. is a Free as in Freedom torrent client for Android 4+, based on &lt;br&gt;&lt;br&gt; Full Torrent는 무료 소프트웨어이며, &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; 약관을 기반으로 합니다.</string>
     <string name="about_changelog">변경내역</string>
     <string name="edit_tag">태그 편집</string>
     <string name="internal_storage_name">내부 저장소</string>

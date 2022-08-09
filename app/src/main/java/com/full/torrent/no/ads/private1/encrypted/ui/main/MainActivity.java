@@ -1,20 +1,20 @@
 /*
- * Copyright (C) 2016-2021 Yaroslav Pronin <proninyaroslav@mail.ru>
+
  *
- * This file is part of LibreTorrent.
+ * This file is part of Full Torrent.
  *
- * LibreTorrent is free software: you can redistribute it and/or modify
+ * Full Torrent is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * LibreTorrent is distributed in the hope that it will be useful,
+ * Full Torrent is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with LibreTorrent.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Full Torrent.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 package com.full.torrent.no.ads.private1.encrypted.ui.main;
@@ -107,7 +107,7 @@ import io.reactivex.schedulers.Schedulers;
 import kotlin.Unit;
 import kotlin.jvm.functions.Function1;
 
-public class MainActivity extends AppCompatActivity implements FragmentCallback, Function1<DonationAction, Unit> {
+public class MainActivity extends AppCompatActivity implements FragmentCallback {
     private static final String TAG = MainActivity.class.getSimpleName();
 
     private static final String TAG_ABOUT_DIALOG = "about_dialog";
@@ -150,8 +150,19 @@ public class MainActivity extends AppCompatActivity implements FragmentCallback,
     protected void onCreate(Bundle savedInstanceState) {
         setTheme(Utils.getAppTheme(getApplicationContext()));
         super.onCreate(savedInstanceState);
-        new PopupManager().onAppStarted(this, BuildConfig.APPLICATION_ID,true,true,true,550,this);
+        new PopupManager().onAppStarted(
+                this,
+                BuildConfig.APPLICATION_ID,
+                true,
+                true,
+                true,
+                (int) getResources().getDimension(R.dimen.size_48dp),
+                (action) -> {
+                    DonationManager.INSTANCE.purchase(this);
 
+                    return null;
+                }
+        );
         if (getIntent().getAction() != null &&
                 getIntent().getAction().equals(NotificationReceiver.NOTIFY_ACTION_SHUTDOWN_APP)) {
             finish();
@@ -837,25 +848,5 @@ public class MainActivity extends AppCompatActivity implements FragmentCallback,
             msgViewModel.torrentDetailsClosed();
     }
 
-    @Override
-    public Unit invoke(DonationAction donationAction) {
-        if (String.valueOf(donationAction).contains("OpenedFromPopup")){
-            //Toast.makeText(this,"open",Toast.LENGTH_LONG).show();
-            DonationManager.INSTANCE.purchase(this);
-
-            //new PopupManager().showDonationSuccess(MainActivity.this);
-
-        }
-        Log.e("", String.valueOf(donationAction));
-        //Toast.makeText(this,donationAction.toString(),Toast.LENGTH_LONG).show();
-        return null;
-    }
-
-
-
-    @Override
-    public void onPointerCaptureChanged(boolean hasCapture) {
-        super.onPointerCaptureChanged(hasCapture);
-    }
 
 }

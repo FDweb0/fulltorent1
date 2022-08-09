@@ -113,7 +113,7 @@
     <!-- status • name -->
     <string name="other_torrent_notify_template">%1$s \\u2022 %2$s</string>
     <string name="torrent_count_notify_template">%1$d ⬇ din %2$d</string>
-    <string name="app_running_in_the_background">LibreTorrent rulează în fundal</string>
+    <string name="app_running_in_the_background">Full Torrent rulează în fundal</string>
     <string name="network_online">Status rețea: Online</string>
     <string name="network_offline">Status rețea: Offline</string>
     <string name="notify_shutting_down">Se închide…</string>
@@ -539,7 +539,7 @@
     <string name="pref_streaming_error">Portul sau numele gazdei selectate pentru streaming care nu sunt ocupate sau incorecte.</string>
     <!-- About dialog -->
     <string name="about_title">Despre</string>
-    <string name="about_description">Pentru mai multe informații și pentru cum sa contribui la proiect accesați: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent este un libre copiat dupa abandonare (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) client de torrent pentru Android 4+, bazat pe biblioteca libtorrent (wrapper de Java &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;).&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Pentru mai multe informații și pentru cum sa contribui la proiect accesați: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent este un libre copiat dupa abandonare (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) client de torrent pentru Android 4+, bazat pe biblioteca libtorrent (wrapper de Java &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;).&lt;br&gt;&lt;br&gt;</string>
     <string name="about_changelog">Istoricul modificărilor</string>
     <string name="folder">Dosar</string>
     <string name="error_open_torrent">Nu se poate deschide torrent-ul</string>
@@ -557,7 +557,7 @@
     <string name="pref_foreground_notify_sorting_entries_4">Marime (cele mai mici sunt primele)</string>
     <string name="pref_foreground_notify_sorting_entries_5">Marime (cele mai mari sunt primele)</string>
     <string name="pref_foreground_notify_sorting_entries_6">Progres (cele mai mici sunt primele)</string>
-    <string name="perm_denied_warning_android_r">Acces la toate permisiunile pentru fisiere sunt necesare ca sa descarci torrenturi si sa acesezi fisiere .torrent in foldere abritrare. Fara aceasta permisiune, LibreTorrent o sa aiba acces la un numar limitat de foldere. Esti sigur ca vrei sa nu acepti aceasta permisiune\?</string>
+    <string name="perm_denied_warning_android_r">Acces la toate permisiunile pentru fisiere sunt necesare ca sa descarci torrenturi si sa acesezi fisiere .torrent in foldere abritrare. Fara aceasta permisiune, Full Torrent o sa aiba acces la un numar limitat de foldere. Esti sigur ca vrei sa nu acepti aceasta permisiune\?</string>
     <string name="torrent_speed_limit_dialog">Seteaza viteza in KiB/s. Nu uita ca daca setezi o limita mai mare pe un torrent decat limita globala, ea va fi inlocuita cu limita globala.</string>
     <string name="pref_foreground_notify_sorting_entries_11">Popularitare (cele mai mari sunt primele)</string>
     <string name="pref_foreground_notify_combined_pause_button_summary">Combineaza doua butoane: pauza si continua toate. Butonul o sa mearga ca un intrerupator. Avertizare: starea butonului nu este afectata de pauza manuala/continuarea torrentului.</string>
@@ -577,7 +577,7 @@
     <string name="pref_default_trackers_list_summary">Lista de trackeri, este folosita in urmatoarele cazuri:
 \n1. Cand adaugi un torrent, lista prestabilita este adaugata automat la lista de torrenti.
 \n2. Folosit pentru a lua linkuri de magnet.</string>
-    <string name="manage_all_files_warning_dialog_description">Nu folosi versiunea de Google Play a lui LibreTorrent daca vrei sa salvezi torrenti in foldere diferite de \'Descarcari\' si similare.
+    <string name="manage_all_files_warning_dialog_description">Nu folosi versiunea de Google Play a lui Full Torrent daca vrei sa salvezi torrenti in foldere diferite de \'Descarcari\' si similare.
 \nExisra alte surse pe pagina de proiect.</string>
     <string name="pref_foreground_notify_combined_pause_button_title">Buton de pauza combinat</string>
     <string name="pref_foreground_notify_sorting_entries_9">TEV (cele mai mari sunt primele)</string>

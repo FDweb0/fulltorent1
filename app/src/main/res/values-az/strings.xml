@@ -111,7 +111,7 @@
     <!-- status • name -->
     <string name="other_torrent_notify_template">%1$s • %2$s</string>
     <string name="torrent_count_notify_template">Endirilir: %1$d Cəmi: %2$d</string>
-    <string name="app_running_in_the_background">LibreTorrent arxaplanda işləyir</string>
+    <string name="app_running_in_the_background">Full Torrent arxaplanda işləyir</string>
     <string name="network_online">Şəbəkə vəziyyəti: Xətdə</string>
     <string name="network_offline">Şəbəkə vəziyyəti: Xətdən kənar</string>
     <string name="notify_shutting_down">Söndürülür…</string>
@@ -533,7 +533,7 @@
     <string name="pref_streaming_error">Yayım üçün məşğul və ya yanlış olmayan bir port və ya host adı seçin.</string>
     <!-- About dialog -->
     <string name="about_title">Haqqında</string>
-    <string name="about_description">Daha çox məlumat və həmçinin layihəyə necə kömək etmək oalr: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent, libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) kitabxanasına əsaslanan&lt;br&gt;&lt;br&gt; Android 4+ üçün copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrent müştərisidir.</string>
+    <string name="about_description">Daha çox məlumat və həmçinin layihəyə necə kömək etmək oalr: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent, libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) kitabxanasına əsaslanan&lt;br&gt;&lt;br&gt; Android 4+ üçün copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrent müştərisidir.</string>
     <string name="about_changelog">Dəyişiklik jurnalı</string>
     <string name="external_storage_name" formatted="false">Xarici anbar %1$d</string>
     <string name="internal_storage_name">Daxili anbar</string>

@@ -526,7 +526,7 @@
     <string name="pref_streaming_error">Selecteer een poort of hostnaam voor het streamen die niet bezet of onjuist is.</string>
     <!-- About dialog -->
     <string name="about_title">Over</string>
-    <string name="about_description">Meer info en hoe het project te helpen: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent is een \"copyleft\" libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrent-client voor Android 4+, gebaseerd op de libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Meer info en hoe het project te helpen: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent is een \"copyleft\" libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrent-client voor Android 4+, gebaseerd op de libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
     <string name="about_changelog">Wijzigingslog</string>
     <string name="pref_led_indicator_notify_title">LED-indicator</string>
     <string name="journal_filter_torrent_log">Torrent-log</string>
@@ -571,8 +571,8 @@
     <string name="pref_foreground_notify_combined_pause_button_title">Gecombineerde pauzeknop</string>
     <string name="error_open_torrent">Kan torrent niet openen</string>
     <string name="exact_alarm_permission_warning">Om de planner te laten werken, moet u toestemming krijgen in een speciaal systeemdialoogvenster. Doorgaan\?</string>
-    <string name="perm_denied_warning_android_r">Machtiging voor toegang tot alle bestanden is vereist om torrents te downloaden en toegang te krijgen tot .torrent-bestanden in willekeurige mappen. Zonder deze toestemming heeft LibreTorrent slechts toegang tot een beperkt aantal mappen. Weet u zeker dat u deze toestemming wilt weigeren\?</string>
-    <string name="manage_all_files_warning_dialog_description">Gebruik de Google Play-versie van LibreTorrent niet als u torrents wilt opslaan in andere mappen dan \'Downloads\' en dergelijke.
+    <string name="perm_denied_warning_android_r">Machtiging voor toegang tot alle bestanden is vereist om torrents te downloaden en toegang te krijgen tot .torrent-bestanden in willekeurige mappen. Zonder deze toestemming heeft Full Torrent slechts toegang tot een beperkt aantal mappen. Weet u zeker dat u deze toestemming wilt weigeren\?</string>
+    <string name="manage_all_files_warning_dialog_description">Gebruik de Google Play-versie van Full Torrent niet als u torrents wilt opslaan in andere mappen dan \'Downloads\' en dergelijke.
 \nEr zijn andere bronnen op de projectpagina.</string>
     <string name="manage_all_files_warning_dialog_title">Waarschuwing</string>
     <string name="pref_validate_https_trackers_title">Certificaat voor HTTPS-trackers valideren</string>

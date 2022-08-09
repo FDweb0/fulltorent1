@@ -303,7 +303,7 @@
     <string name="pref_speed_category">Kiirus</string>
     <string name="pref_max_download_speed_title">Maks. ⬇ kiirus</string>
     <string name="pref_enc_mode_entries_0">Eelistatuna</string>
-    <string name="manage_all_files_warning_dialog_description">Ärge kasutage Google Play versiooni LibreTorrent\'ist, kui soovite salvestada torrenteid tavakaustadesse \'Downloads\' ega sarnastesse.
+    <string name="manage_all_files_warning_dialog_description">Ärge kasutage Google Play versiooni Full Torrent\'ist, kui soovite salvestada torrenteid tavakaustadesse \'Downloads\' ega sarnastesse.
 \nOn olemas teisi variante projekti veebilehel.</string>
     <string name="file_priority_high">Kõrge</string>
     <string name="pref_autostart_summary">Käivita äpp pärast seadme käivitamist.</string>
@@ -311,7 +311,7 @@
     <string name="file_priority_normal">Tavaline</string>
     <string name="pref_foreground_notify_sorting_entries_5">Suurus (suuremad ennem)</string>
     <string name="about_changelog">Muudatuste teave</string>
-    <string name="about_description">Rohkem infot kuidas aidata projektiga: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent is a copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrent client for Android 4+, based on the libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Rohkem infot kuidas aidata projektiga: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent is a copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrent client for Android 4+, based on the libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
     <string name="magnet_more_about_bep53">Rohkem infot siin https://www.bittorrent.org/beps/bep_0053.html</string>
     <string name="pref_led_indicator_color_notify_title">LED indikaatori värv</string>
     <string name="pref_port_range_title">Portide vahemik</string>

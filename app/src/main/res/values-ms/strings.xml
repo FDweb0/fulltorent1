@@ -224,7 +224,7 @@
     <string name="restore_torrent_error">Tidak dapat memulihkan torrent dari sesi sebelumnya.</string>
     <string name="download_counter_template">%1$s/%2$s (%3$d%%)</string>
     <string name="add_tag_failed">Gagal menambahkan penanda</string>
-    <string name="app_running_in_the_background">LibreTorrent berjalan di latar belakang…</string>
+    <string name="app_running_in_the_background">Full Torrent berjalan di latar belakang…</string>
     <string name="torrent_error_notify_title">Keralatan torrent</string>
     <string name="torrent_moving_content">Sila tunggu ketika memindahkan %1$s…</string>
     <string name="torrent_move_success">Torrent dipindahkan</string>
@@ -363,7 +363,7 @@
     <string name="pref_foreground_notify_sorting">Penyusunan</string>
     <string name="manage_all_files_warning_dialog_title">Amaran</string>
     <string name="pref_foreground_notify_sorting_entries_8">ETA (terkecil dahulu)</string>
-    <string name="manage_all_files_warning_dialog_description">Jangan gunakan LibreTorrent versi Gedung Play jikalai anda ingin menyimpan torrent di dalam folder selain \'Downloads\' atau sama dengannya.
+    <string name="manage_all_files_warning_dialog_description">Jangan gunakan Full Torrent versi Gedung Play jikalai anda ingin menyimpan torrent di dalam folder selain \'Downloads\' atau sama dengannya.
 \nTerdapat sumber lain dari laman projek.</string>
     <string name="pref_auto_manage_title">Urus automatik</string>
     <string name="torrent_speed_limit_dialog">Menetapkan kelajuan dalam KiB/s. Perlu diingatkan bahawa nilai had yang lebih tinggi dari had sejagat pada torrent tidak akan mengatasi had sejagat.</string>

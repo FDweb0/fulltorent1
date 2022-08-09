@@ -533,7 +533,7 @@
     <string name="pref_streaming_error">Seleziona una porta o nome host per lo streaming che non sia occupato o sbagliato.</string>
     <!-- About dialog -->
     <string name="about_title">Informazioni</string>
-    <string name="about_description">Ulteriori informazioni e come aiutare il progetto: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent è un client libre copyleft (&lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; per Android 4+, basato su libreria libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;).&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Ulteriori informazioni e come aiutare il progetto: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent è un client libre copyleft (&lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; per Android 4+, basato su libreria libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;).&lt;br&gt;&lt;br&gt;</string>
     <string name="about_changelog">Novità</string>
     <string name="switch_off">Disattivo</string>
     <string name="pref_header_streaming">Streaming</string>

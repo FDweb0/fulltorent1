@@ -361,7 +361,7 @@
     <string name="torrent_leechers">Лийчъри</string>
     <string name="torrent_pieces_template">%1$d/%2$d (%3$s)</string>
     <string name="manage_all_files_warning_dialog_title">Внимание</string>
-    <string name="manage_all_files_warning_dialog_description">Версията на LibreTorrent в Google Play няма разрешение за достъп до всички файлове. Това означава, че LibreTorrent ще има достъп само до ограничен брой папки, като например Downloads(Изтегляния) или други. Ако е необходимо, за да разрешите това разрешение, моля, инсталирайте LibreTorrent от друг източник, пълният списък е представен на страницата на проекта:</string>
+    <string name="manage_all_files_warning_dialog_description">Версията на Full Torrent в Google Play няма разрешение за достъп до всички файлове. Това означава, че Full Torrent ще има достъп само до ограничен брой папки, като например Downloads(Изтегляния) или други. Ако е необходимо, за да разрешите това разрешение, моля, инсталирайте Full Torrent от друг източник, пълният списък е представен на страницата на проекта:</string>
     <string name="torrent_hash_sum">Контролна сума</string>
     <string name="torrent_created_in_program">Създаден в програма</string>
     <string name="sequential_download">Последователно изтегляне</string>
@@ -470,7 +470,7 @@
     <string name="pref_enable_scheduling_start_summary">Стартирайте приложението в определено време. Торентите се стартират в зависимост от състоянието им преди изключването на последния.</string>
     <string name="pref_enable_scheduling_shutdown_summary">Изключване на приложението в определено време</string>
     <string name="pref_feed_refresh_intervals_entries_6">1 ден</string>
-    <string name="about_description">Повече информация и как да помогнете на проекта: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent е copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) торент клиент за Android 4+, базиран на libtorrent (Java wrapper &lt;a href=https:// github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Повече информация и как да помогнете на проекта: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent е copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) торент клиент за Android 4+, базиран на libtorrent (Java wrapper &lt;a href=https:// github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
     <string name="pref_proxy_type_entries_1">SOCKS4</string>
     <string name="pref_proxy_type_entries_3">HTTP</string>
     <string name="pref_proxy_peers_too_summary">Връзките с проследяващи устройства, други устройства и уеб сайтове са проксирани. Не влияе на DHT.</string>
@@ -510,6 +510,6 @@
     <string name="pref_streaming_enable_summary">Позволява изтеглянето на отделни файлове от торент с помощта на уеб браузър или мултимедиен плейър, като се използват HTTP/S URL адреси.</string>
     <string name="pref_streaming_port">Порт</string>
     <string name="about_title">Относно</string>
-    <string name="perm_denied_warning_android_r">Разрешението за достъп до всички файлове е необходимо за изтегляне на торенти и достъп до .torrent файлове в произволни папки. Без това разрешение LibreTorrent ще има достъп само до ограничен брой папки. Сигурни ли сте, че искате да откажете това разрешение\?</string>
+    <string name="perm_denied_warning_android_r">Разрешението за достъп до всички файлове е необходимо за изтегляне на торенти и достъп до .torrent файлове в произволни папки. Без това разрешение Full Torrent ще има достъп само до ограничен брой папки. Сигурни ли сте, че искате да откажете това разрешение\?</string>
     <string name="pref_streaming_error">Изберете порт или име на хост за поточно предаване, който не е зает или неправилен.</string>
 </resources>

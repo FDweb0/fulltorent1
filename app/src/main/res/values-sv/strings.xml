@@ -372,7 +372,7 @@
     <string name="pref_streaming_error">Välj en port eller ett värdnamn för strömningar som inte är upptagna eller felaktiga.</string>
     <!-- About dialog -->
     <string name="about_title">Om</string>
-    <string name="about_description">Mer info och hur man hjälper projektet: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt; https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent är en upphovsrättsbefriad fri (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrentklient för Android 4+, baserad på libtorrent (Java-wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) bibl.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Mer info och hur man hjälper projektet: &lt;a href=https://github.com/FDweb0/fulltorent1&gt; https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent är en upphovsrättsbefriad fri (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) torrentklient för Android 4+, baserad på libtorrent (Java-wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) bibl.&lt;br&gt;&lt;br&gt;</string>
     <string name="torrent_moving_title">Flyttar torrent…</string>
     <string name="torrent_finished_notify">Torrent färdig</string>
     <string name="session_error_title">Sessionsfel</string>
@@ -572,10 +572,10 @@
     <string name="pref_foreground_notification_category">Förgrundsaviseringsinställningar</string>
     <string name="error_open_torrent">Det går inte att öppna torrent</string>
     <string name="manage_all_files_warning_dialog_title">Varning</string>
-    <string name="manage_all_files_warning_dialog_description">Använd inte Google Play-versionen av LibreTorrent om du vill spara torrenter i andra mappar än \"Hämtningar\" och liknande.
+    <string name="manage_all_files_warning_dialog_description">Använd inte Google Play-versionen av Full Torrent om du vill spara torrenter i andra mappar än \"Hämtningar\" och liknande.
 \nDet finns andra källor på projektsidan.</string>
     <string name="exact_alarm_permission_warning">För att schemaläggaren ska fungera måste du få behörighet i en speciell systemdialog. Fortsätt\?</string>
-    <string name="perm_denied_warning_android_r">Åtkomst till alla filer krävs för att hämta torrenter och komma åt .torrent-filer i godtyckliga mappar. Utan detta tillstånd kommer LibreTorrent endast att ha tillgång till ett begränsat antal mappar. Är du säker på att du vill avfärda denna behörighet\?</string>
+    <string name="perm_denied_warning_android_r">Åtkomst till alla filer krävs för att hämta torrenter och komma åt .torrent-filer i godtyckliga mappar. Utan detta tillstånd kommer Full Torrent endast att ha tillgång till ett begränsat antal mappar. Är du säker på att du vill avfärda denna behörighet\?</string>
     <string name="pref_validate_https_trackers_title">Validera HTTPS-spårarcertifikat</string>
     <string name="download_first_last_pieces">Hämta första och sista delarna först</string>
     <string name="pref_validate_https_trackers_summary">Certifikatet för HTTPS-spårare och HTTPS-webbdistributioner kommer att valideras i systemcertifikatarkivet.</string>

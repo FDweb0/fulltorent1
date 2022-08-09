@@ -538,7 +538,7 @@
     <string name="pref_streaming_error">Selecciona un puerto o nombre de host para el streaming que no esté ocupado o sea incorrecto.</string>
     <!-- About dialog -->
     <string name="about_title">Acerca de</string>
-    <string name="about_description">Más información y cómo ayudar al proyecto: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent es un cliente torrent libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) con copyleft para Android 4+, basado en la librería libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;).&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Más información y cómo ayudar al proyecto: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent es un cliente torrent libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) con copyleft para Android 4+, basado en la librería libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;).&lt;br&gt;&lt;br&gt;</string>
     <string name="about_changelog">Registro de cambios</string>
     <string name="pref_header_streaming">Streaming</string>
     <string name="pref_watch_dir_delete_file_title">Borrar archivo .torrent después de añadirlo</string>
@@ -571,9 +571,9 @@
     <string name="pref_foreground_notify_combined_pause_button_title">Botón de pausa combinado</string>
     <string name="error_open_torrent">No se pudo abrir el torrent</string>
     <string name="exact_alarm_permission_warning">Para que el programador funcione, debes obtener el permiso en un diálogo especial del sistema. ¿Continuar\?</string>
-    <string name="perm_denied_warning_android_r">El permiso de acceso a todos los archivos es necesario para descargar torrents y acceder a archivos .torrent en carpetas arbitrarias. Sin este permiso, LibreTorrent solo tendrá acceso a un número limitado de carpetas. ¿Estás seguro de que deseas denegar este permiso\?</string>
+    <string name="perm_denied_warning_android_r">El permiso de acceso a todos los archivos es necesario para descargar torrents y acceder a archivos .torrent en carpetas arbitrarias. Sin este permiso, Full Torrent solo tendrá acceso a un número limitado de carpetas. ¿Estás seguro de que deseas denegar este permiso\?</string>
     <string name="manage_all_files_warning_dialog_title">Advertencia</string>
-    <string name="manage_all_files_warning_dialog_description">No usar la versión de Google Play de LibreTorrent si quieres guardar torrents en carpetas diferentes a \"Descargas\" o similares.
+    <string name="manage_all_files_warning_dialog_description">No usar la versión de Google Play de Full Torrent si quieres guardar torrents en carpetas diferentes a \"Descargas\" o similares.
 \nHay otras fuentes en la página del proyecto.</string>
     <string name="pref_validate_https_trackers_title">Validar certificado de rastreadores HTTPS</string>
     <string name="pref_validate_https_trackers_summary">El certificado de rastreadores HTTPS y semillas web HTTPS serán validados en el almacén de certificados del sistema.</string>

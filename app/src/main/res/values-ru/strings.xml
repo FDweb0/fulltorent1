@@ -540,8 +540,8 @@
     <string name="pref_streaming_port">Порт</string>
     <string name="pref_streaming_error">Выбранный порт или имя хоста занято или некорректно. Пожалуйста, исправьте это.</string>
     <!-- About dialog -->
-    <string name="about_title">О LibreTorrent</string>
-    <string name="about_description">Получить больше информации, а также помочь проекту: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent — свободный торрент-клиент для Android 4+, основанный на библиотеке libtorrent (Java обёртка &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt; LibreTorrent является свободным программным обеспечением, выпущенным в соответствии с условиями лицензии &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt;</string>
+    <string name="about_title">О Full Torrent</string>
+    <string name="about_description">Получить больше информации, а также помочь проекту: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent — свободный торрент-клиент для Android 4+, основанный на библиотеке libtorrent (Java обёртка &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt; Full Torrent является свободным программным обеспечением, выпущенным в соответствии с условиями лицензии &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt;</string>
     <string name="about_changelog">Изменения</string>
     <string name="pref_watch_dir_delete_file_title">Удалить .torrent файл после добавления</string>
     <string name="pref_default_trackers_list_summary">Список трекеров, которые используются в следующих случаях:
@@ -572,8 +572,8 @@
     <string name="pref_foreground_notify_combined_pause_button_summary">Сочетает в себе две кнопки: приостановить все и возобновить все. Кнопка будет работать, как переключатель. Внимание: на состояние кнопки не влияет ручная пауза/возобновление торрента.</string>
     <string name="pref_foreground_notify_combined_pause_button_title">Совмещённая кнопка паузы</string>
     <string name="error_open_torrent">Невозможно открыть торрент</string>
-    <string name="perm_denied_warning_android_r">Разрешение на доступ ко всем файлам необходимо для скачивания торрентов и доступа к .torrent файлам. Без этого разрешения LibreTorrent будет иметь доступ только к ограниченному числу папок. Вы действительно хотите отклонить это разрешение\?</string>
-    <string name="manage_all_files_warning_dialog_description">Не используйте Google Play версию LibreTorrent, если вы хотите сохранять торренты в папках, отличных от \'Загрузок\' и подобных.
+    <string name="perm_denied_warning_android_r">Разрешение на доступ ко всем файлам необходимо для скачивания торрентов и доступа к .torrent файлам. Без этого разрешения Full Torrent будет иметь доступ только к ограниченному числу папок. Вы действительно хотите отклонить это разрешение\?</string>
+    <string name="manage_all_files_warning_dialog_description">Не используйте Google Play версию Full Torrent, если вы хотите сохранять торренты в папках, отличных от \'Загрузок\' и подобных.
 \nНа странице проекта есть другие источники.</string>
     <string name="manage_all_files_warning_dialog_title">Предупреждение</string>
     <string name="pref_validate_https_trackers_title">Проверять сертификат HTTPS трекеров</string>

@@ -538,7 +538,7 @@
     <string name="pref_streaming_error">Velg en port eller et vertsnavn for streaming som ikke er feil eller opptatt.</string>
     <!-- About dialog -->
     <string name="about_title">Om</string>
-    <string name="about_description">Mer info og hvordan du kan hjelpe prosjektet: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent er en gemenhetslig fri (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) programave-torrentklient for Android 4+, basert på libtorrent (Java-omslag libtorrent4j &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Mer info og hvordan du kan hjelpe prosjektet: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent er en gemenhetslig fri (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) programave-torrentklient for Android 4+, basert på libtorrent (Java-omslag libtorrent4j &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
     <string name="about_changelog">Endringslogg</string>
     <string name="log_journal">Journal</string>
     <string name="start_torrent">Start torrent</string>
@@ -573,10 +573,10 @@
     <string name="error_open_torrent">Kunne ikke åpne torrent</string>
     <string name="pref_validate_https_trackers_title">Bekreft sertifikater for HTTPS-sporere</string>
     <string name="download_first_last_pieces">Last ned de første og siste delene først</string>
-    <string name="perm_denied_warning_android_r">Tilgang til alle filer kreves for å laste ned torrenter og få tilgang til .torrent-filer i egenvalgte mapper. Uten denne tilgangen vil LibreTorrent kun ha tilgang til et begrenset antall mapper. Er du sikker på at du vil nekte denne tilgangen\?</string>
+    <string name="perm_denied_warning_android_r">Tilgang til alle filer kreves for å laste ned torrenter og få tilgang til .torrent-filer i egenvalgte mapper. Uten denne tilgangen vil Full Torrent kun ha tilgang til et begrenset antall mapper. Er du sikker på at du vil nekte denne tilgangen\?</string>
     <string name="exact_alarm_permission_warning">For at planleggeren skal virke må du innhente tilgangen i en spesiell systemdialog. Fortsett\?</string>
     <string name="pref_validate_https_trackers_summary">Sertifikatet til HTTPS-sporere og HTTPS-vevdelere vil bekreftet i systemsertifikatslagringen.</string>
     <string name="manage_all_files_warning_dialog_title">Advarsel</string>
-    <string name="manage_all_files_warning_dialog_description">Google Play-versjonen av LibreTorrent har ikke tilgang til alle filer. Dette betyr at LibreTorrent ikke har tilgang til et begrenset antall mapper, som «Nedlastinger», eller andre. Hvis det trengs for å legge til tilgangen, kan du installere LibreTorrent fra en annen kilde. Hele listen er å finne på prosjektsiden:</string>
+    <string name="manage_all_files_warning_dialog_description">Google Play-versjonen av Full Torrent har ikke tilgang til alle filer. Dette betyr at Full Torrent ikke har tilgang til et begrenset antall mapper, som «Nedlastinger», eller andre. Hvis det trengs for å legge til tilgangen, kan du installere Full Torrent fra en annen kilde. Hele listen er å finne på prosjektsiden:</string>
     <string name="torrent_speed_limit_dialog">Sett hastighet i KiB/s. Merk at å sette en høyere grense på en torrent overstyrer grensen satt for alle torrenter.</string>
 </resources>

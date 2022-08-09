@@ -522,8 +522,8 @@
     <string name="pref_streaming_port">Port</string>
     <string name="pref_streaming_error">Der ausgewählte Port oder Hostname für das Streaming ist ausgelastet oder falsch. Bitte reparieren Sie es</string>
     <!-- About dialog -->
-    <string name="about_title">Über LibreTorrent</string>
-    <string name="about_description">Weitere Informationen und auch zur Unterstützung des Projekts:&lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;&lt;a href=http://www.gnu.org/copyleft/gpl.html&gt; &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent ist ein Free as in Freedom Torrent-Client für Android 4+, basierend auf libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) Bibliothek.&lt;br&gt;&lt;br&gt; LibreTorrent ist freie Software, veröffentlicht unter den Bedingungen der &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt;</string>
+    <string name="about_title">Über Full Torrent</string>
+    <string name="about_description">Weitere Informationen und auch zur Unterstützung des Projekts:&lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;&lt;a href=http://www.gnu.org/copyleft/gpl.html&gt; &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent ist ein Free as in Freedom Torrent-Client für Android 4+, basierend auf libtorrent (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) Bibliothek.&lt;br&gt;&lt;br&gt; Full Torrent ist freie Software, veröffentlicht unter den Bedingungen der &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt;</string>
     <string name="about_changelog">Änderungsprotokoll</string>
     <string name="without_tags">Ohne Markierungen</string>
     <string name="new_tag">Neue Markierung</string>
@@ -564,9 +564,9 @@
     <string name="torrent_peers">Peers</string>
     <string name="journal_filter_portmap_log">UPnP/NAT-PMP Log</string>
     <string name="journal_filter_dht_log">DHT Log</string>
-    <string name="perm_denied_warning_android_r">Die Berechtigung zum Zugriff auf alle Dateien ist nötig, um Torrents in eigene Ordner herunterzuladen und .torrent-Dateien zu finden. Ohne dieser Berechtigung wird LibreTorrent Zugriff auf eine begrenzte Anzahl an Ordnern haben. Sind Sie sich sicher, dass Sie diese Berechtigung verweigern wollen\?</string>
+    <string name="perm_denied_warning_android_r">Die Berechtigung zum Zugriff auf alle Dateien ist nötig, um Torrents in eigene Ordner herunterzuladen und .torrent-Dateien zu finden. Ohne dieser Berechtigung wird Full Torrent Zugriff auf eine begrenzte Anzahl an Ordnern haben. Sind Sie sich sicher, dass Sie diese Berechtigung verweigern wollen\?</string>
     <string name="manage_all_files_warning_dialog_title">Warnung</string>
-    <string name="manage_all_files_warning_dialog_description">Verwende nicht die Google Play-Version von LibreTorrent, wenn du die Torrents in anderen Ordnern als \'Downloads\' und ähnlichen speichern willst.
+    <string name="manage_all_files_warning_dialog_description">Verwende nicht die Google Play-Version von Full Torrent, wenn du die Torrents in anderen Ordnern als \'Downloads\' und ähnlichen speichern willst.
 \nAndere Quellen gibt es auf der Projektseite.</string>
     <string name="journal_filter_torrent_log">Torrent Log</string>
     <string name="pref_foreground_notify_sorting_entries_11">Bekanntheit (höchste zuerst)</string>

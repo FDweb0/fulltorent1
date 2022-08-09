@@ -55,7 +55,7 @@
     <string name="close_navigation_drawer">Sulje navigaatiovetolaatikko</string>
     <string name="open_navigation_drawer">Avaa navigaatiovetolaatikko</string>
     <string name="foreground_notification">Etualan ilmoitus</string>
-    <string name="about_description">Lisätietoa projektissa auttamiseen: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent on copyleft libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) -torrent-asiakasohjelma (Android 4+), joka perustuu libtorrentiin (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Lisätietoa projektissa auttamiseen: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent on copyleft libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) -torrent-asiakasohjelma (Android 4+), joka perustuu libtorrentiin (Java wrapper &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
     <string name="about_title">Tietoa</string>
     <string name="pref_streaming_error">Valitse portti tai isäntänimi suoratoistoon, joka ei ole ruuhkainen tai epäkelpo.</string>
     <string name="pref_streaming_port">Portti</string>
@@ -509,10 +509,10 @@
     <string name="piece_size_entries_12">32 MiB</string>
     <string name="piece_size_entries_11">16 MiB</string>
     <string name="exact_alarm_permission_warning">Aikatauluttajan toiminta edellyttää käyttöoikeuden myöntöä erityisellä järjestelmävalinnalla. Jatketaanko\?</string>
-    <string name="manage_all_files_warning_dialog_description">Älä käytä LibreTorrentin Google Play -versiota, jos haluat tallentaa torrenteja \'Downloads\' ja vastaavien kansioiden ulkopuolelle.
+    <string name="manage_all_files_warning_dialog_description">Älä käytä Full Torrentin Google Play -versiota, jos haluat tallentaa torrenteja \'Downloads\' ja vastaavien kansioiden ulkopuolelle.
 \nMuita lähteitä on projektin sivulla.</string>
     <string name="manage_all_files_warning_dialog_title">Varoitus</string>
-    <string name="perm_denied_warning_android_r">Torrentien lataus ja .torrent-tiedostojen avaus mistä tahansa kansiosta edellyttää kaikkien tiedostojen käyttöoikeutta. Ilman tätä käyttöoikeutta LibreTorrentilla on pääsy vain rajoitettuihin kansioihin. Haluatko varmasti kieltää tämän käyttöoikeuden\?</string>
+    <string name="perm_denied_warning_android_r">Torrentien lataus ja .torrent-tiedostojen avaus mistä tahansa kansiosta edellyttää kaikkien tiedostojen käyttöoikeutta. Ilman tätä käyttöoikeutta Full Torrentilla on pääsy vain rajoitettuihin kansioihin. Haluatko varmasti kieltää tämän käyttöoikeuden\?</string>
     <string name="download_first_last_pieces">Lataa ensin ensimmänen ja viimeinen osa</string>
     <string name="pref_validate_https_trackers_title">Vahvista HTTPS-trakkerin varmenne</string>
     <string name="pref_validate_https_trackers_summary">HTTPS-trakkerien ja HTTPS-verkkojakojen varmenteet vahvistetaan järjestelmän varmennevarastossa.</string>

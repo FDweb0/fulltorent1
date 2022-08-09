@@ -52,8 +52,11 @@ android {
 
         debug {
 
-            buildConfigField('boolean', SESSION_LOGGING, 'true')
-        }
+            versionNameSuffix '-DEBUG'
+            testCoverageEnabled true
+            debuggable true
+
+            buildConfigField('boolean', SESSION_LOGGING, 'true')        }
     }
 
     splits {

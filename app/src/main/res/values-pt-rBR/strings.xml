@@ -531,7 +531,7 @@
     <string name="pref_streaming_error">Selecione uma porta ou nome de host para o stream que não está ocupada ou incorreta.</string>
     <!-- About dialog -->
     <string name="about_title">Sobre</string>
-    <string name="about_description">Mais informações e como ajudar o projeto: &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt;&lt;br&gt;&lt;br&gt; LibreTorrent é um copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) cliente de torrent para Android 4+, baseado no libtorrent (Java wrapper &lt;a href=https:// github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
+    <string name="about_description">Mais informações e como ajudar o projeto: &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt;&lt;br&gt;&lt;br&gt; Full Torrent é um copylefted libre (&lt;a href=https://www.gnu.org/copyleft/gpl.html&gt;GPLv3+&lt;/a&gt;) cliente de torrent para Android 4+, baseado no libtorrent (Java wrapper &lt;a href=https:// github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) lib.&lt;br&gt;&lt;br&gt;</string>
     <string name="about_changelog">Novidades</string>
     <string name="torrent_leechers">Receptores</string>
     <string name="torrent_peers">Pares</string>
@@ -572,9 +572,9 @@
     <string name="pref_foreground_notify_sorting">Classificação</string>
     <string name="pref_foreground_notify_sorting_entries_2">Data adicionada (mais recente primeiro)</string>
     <string name="manage_all_files_warning_dialog_title">Aviso</string>
-    <string name="manage_all_files_warning_dialog_description">Não use a versão do Google Play do LibreTorrent se quiser salvar torrents em pastas diferentes de \'Downloads\' e similares.
+    <string name="manage_all_files_warning_dialog_description">Não use a versão do Google Play do Full Torrent se quiser salvar torrents em pastas diferentes de \'Downloads\' e similares.
 \nExistem outras fontes na página do projeto.</string>
-    <string name="perm_denied_warning_android_r">A permissão de acesso a todos os arquivos é necessária para baixar torrents e acessar arquivos .torrent em pastas arbitrárias. Sem essa permissão, o LibreTorrent apenas terá acesso a um número limitado de pastas. Tem certeza de que deseja negar esta permissão\?</string>
+    <string name="perm_denied_warning_android_r">A permissão de acesso a todos os arquivos é necessária para baixar torrents e acessar arquivos .torrent em pastas arbitrárias. Sem essa permissão, o Full Torrent apenas terá acesso a um número limitado de pastas. Tem certeza de que deseja negar esta permissão\?</string>
     <string name="exact_alarm_permission_warning">Para que o planejador funcione, você deve obter permissão em uma caixa de diálogo especial do sistema. Continuar\?</string>
     <string name="pref_validate_https_trackers_summary">O certificado de rastreadores HTTPS e sementes da web HTTPS serão validados no armazenamento de certificados do sistema.</string>
     <string name="download_first_last_pieces">Baixe as primeiras e últimas peças primeiro</string>

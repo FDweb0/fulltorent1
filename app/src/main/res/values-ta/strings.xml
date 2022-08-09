@@ -538,8 +538,8 @@
     <string name="pref_streaming_port">போர்ட்</string>
     <string name="pref_streaming_error">ஸ்ட்ரீமிங்கிற்கான தேர்ந்தெடுத்த துறை அல்லது புரவலன் பெயர் பிஸியாக அல்லது தவறானது. தயவுசெய்து அதை சரிசெய்யவும்</string>
     <!-- About dialog -->
-    <string name="about_title">LibreTorrent பற்றி</string>
-    <string name="about_description">மேலும் தகவலுக்கு &lt;a href=https://gitlab.com/proninyaroslav/libretorrent&gt;https://gitlab.com/proninyaroslav/libretorrent&lt;/a&gt; இல் கிடைக்கும்&lt;br&gt;&lt;br&gt; libtorrent (ஜாவா ரேப்பர் &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) நூலகத்தின் அடிப்படையில் Android 4+ க்கான சுதந்திர டொரண்ட் கிளையண்டில் LibreTorrent இலவசம்&lt;br&gt;&lt;br&gt; LibreTorrent என்பது இலவச மென்பொருள், இது &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; இன் விதிமுறைகளின் கீழ் வெளியிடப்பட்டது</string>
+    <string name="about_title">Full Torrent பற்றி</string>
+    <string name="about_description">மேலும் தகவலுக்கு &lt;a href=https://github.com/FDweb0/fulltorent1&gt;https://github.com/FDweb0/fulltorent1&lt;/a&gt; இல் கிடைக்கும்&lt;br&gt;&lt;br&gt; libtorrent (ஜாவா ரேப்பர் &lt;a href=https://github.com/aldenml/libtorrent4j&gt;libtorrent4j&lt;/a&gt;) நூலகத்தின் அடிப்படையில் Android 4+ க்கான சுதந்திர டொரண்ட் கிளையண்டில் Full Torrent இலவசம்&lt;br&gt;&lt;br&gt; Full Torrent என்பது இலவச மென்பொருள், இது &lt;a href=http://www.gnu.org/copyleft/gpl.html&gt;GNU General Public License v3 (GPLv3)&lt;/a&gt; இன் விதிமுறைகளின் கீழ் வெளியிடப்பட்டது</string>
     <string name="about_changelog">சேஞ்ச்</string>
     <string name="error_open_torrent">Torrent ஐ திறக்க முடியவில்லை</string>
     <string name="pref_watch_dir_delete_file_title">சேர்த்தபின் . torrent கோப்பை நீக்கு</string>

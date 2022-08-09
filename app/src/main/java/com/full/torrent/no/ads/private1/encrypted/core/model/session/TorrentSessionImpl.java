@@ -1,20 +1,20 @@
 /*
  * Copyright (C) 2016-2022 Yaroslav Pronin <proninyaroslav@mail.ru>
  *
- * This file is part of LibreTorrent.
+ * This file is part of Full Torrent.
  *
- * LibreTorrent is free software: you can redistribute it and/or modify
+ * Full Torrent is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * LibreTorrent is distributed in the hope that it will be useful,
+ * Full Torrent is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with LibreTorrent.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Full Torrent.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 package com.full.torrent.no.ads.private1.encrypted.core.model.session;
@@ -132,7 +132,7 @@ public class TorrentSessionImpl extends SessionManager
     /* Base unit in KiB. Used for create torrent */
     private static final int[] pieceSize = {0, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384, 32768};
     private static final String PEER_FINGERPRINT = "Lr"; /* called peer id */
-    private static final String USER_AGENT = "LibreTorrent %s";
+    private static final String USER_AGENT = "Full Torrent %s";
 
     private InnerListener innerListener;
     private ConcurrentLinkedQueue<TorrentEngineListener> listeners = new ConcurrentLinkedQueue<>();
