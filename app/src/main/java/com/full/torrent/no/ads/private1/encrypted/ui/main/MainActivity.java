@@ -49,12 +49,12 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProvider;
-import androidx.multidex.BuildConfig;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.full.torrent.no.ads.private1.encrypted.BuildConfig;
 import com.fulldive.startapppopups.PopupManager;
 import com.fulldive.startapppopups.donation.DonationAction;
 import com.fulldive.startapppopups.donation.DonationManager;
@@ -150,6 +150,7 @@ public class MainActivity extends AppCompatActivity implements FragmentCallback,
     protected void onCreate(Bundle savedInstanceState) {
         setTheme(Utils.getAppTheme(getApplicationContext()));
         super.onCreate(savedInstanceState);
+        new PopupManager().onAppStarted(this, BuildConfig.APPLICATION_ID,true,true,true,550,this);
 
         if (getIntent().getAction() != null &&
                 getIntent().getAction().equals(NotificationReceiver.NOTIFY_ACTION_SHUTDOWN_APP)) {
@@ -410,7 +411,6 @@ public class MainActivity extends AppCompatActivity implements FragmentCallback,
         subscribeSessionStats();
         subscribeNeedStartEngine();
         subscribeTags();
-        new PopupManager().onAppStarted(this,"com.full.torrent.no.ads.private1.encrypted",true,true,true,550,this);
 
     }
 

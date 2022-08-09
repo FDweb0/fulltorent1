@@ -142,7 +142,8 @@
         <item name="colorSecondaryVariant">@color/accent_dark</item>
         <item name="colorOnSecondary">@color/text_primary_inverse</item>
         <item name="android:windowBackground">@drawable/background_dialog_rounded</item>
-
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
         <item name="android:bottomBright">@color/background_dialog</item>
         <item name="android:bottomDark">@color/background_dialog</item>
         <item name="android:bottomMedium">@color/background_dialog</item>
@@ -163,7 +164,8 @@
         <item name="colorSecondaryVariant">@color/accent_dark</item>
         <item name="colorOnSecondary">@color/text_primary</item>
         <item name="android:windowBackground">@drawable/background_dialog_rounded_dark</item>
-
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
         <item name="android:bottomBright">@color/background_dialog_dark</item>
         <item name="android:bottomDark">@color/background_dialog_dark</item>
         <item name="android:bottomMedium">@color/background_dialog_dark</item>
@@ -178,7 +180,8 @@
 
     <style name="BaseTheme.Dialog.Black" parent="BaseTheme.Dialog.Dark">
         <item name="android:windowBackground">@drawable/background_dialog_rounded_black</item>
-
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
         <item name="android:bottomBright">@color/background_dialog_black</item>
         <item name="android:bottomDark">@color/background_dialog_black</item>
         <item name="android:bottomMedium">@color/background_dialog_black</item>

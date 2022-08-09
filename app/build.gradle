@@ -51,10 +51,6 @@ android {
         }
 
         debug {
-            applicationIdSuffix '.debug'
-            versionNameSuffix '-DEBUG'
-            testCoverageEnabled true
-            debuggable true
 
             buildConfigField('boolean', SESSION_LOGGING, 'true')
         }
