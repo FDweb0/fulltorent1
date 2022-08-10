@@ -1,26 +1,26 @@
-[![Hosted Weblate](https://hosted.weblate.org/widgets/libretorrent/-/svg-badge.svg)](https://hosted.weblate.org/engage/libretorrent/)
-[![Matrix Room](https://img.shields.io/matrix/libretorrent:matrix.org?label=Matrix%20Room)](https://matrix.to/#libretorrent:matrix.org)
-[![Chat - Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/LibreTorrent)
-[<img alt="Coverity Scan Build Status" src="https://scan.coverity.com/projects/14421/badge.svg">](https://scan.coverity.com/projects/proninyaroslav-libretorrent)
+[![Hosted Weblate](https://hosted.weblate.org/widgets/FullTorrent/-/svg-badge.svg)](https://hosted.weblate.org/engage/FullTorrent/)
+[![Matrix Room](https://img.shields.io/matrix/FullTorrent:matrix.org?label=Matrix%20Room)](https://matrix.to/#FullTorrent:matrix.org)
+[![Chat - Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/FullTorrent)
+[<img alt="Coverity Scan Build Status" src="https://scan.coverity.com/projects/14421/badge.svg">](https://scan.coverity.com/projects/proninyaroslav-FullTorrent)
 
 Full Torrent
 =====================
 
-![LibreTorrent](fastlane/metadata/android/en-US/images/featureGraphic.png)
+![FullTorrent](fastlane/metadata/android/en-US/images/featureGraphic.png)
 
-[comment]: <> ([<img alt="Get it on F-Droid" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/F-Droid/get-it-on.png">]&#40;https://f-droid.org/app/org.proninyaroslav.libretorrent&#41;)
+[comment]: <> ([<img alt="Get it on F-Droid" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/F-Droid/get-it-on.png">]&#40;https://f-droid.org/app/org.proninyaroslav.FullTorrent&#41;)
 
 [comment]: <> ([<img alt="Get it on AFH" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/Android%20File%20Host/android-file-host-badge.png">]&#40;https://www.androidfilehost.com/?w=files&flid=246723&#41;)
 
-[comment]: <> ([<img alt="Get it on APKMirror" height="80" src="https://raw.githubusercontent.com/proninyaroslav/TachibanaGeneralLaboratories.github.io/master/images/badges/APKMirror/get-it-on-apkmirror.png">]&#40;https://www.apkmirror.com/apk/proninyaroslav/libretorrent&#41;)
+[comment]: <> ([<img alt="Get it on APKMirror" height="80" src="https://raw.githubusercontent.com/proninyaroslav/TachibanaGeneralLaboratories.github.io/master/images/badges/APKMirror/get-it-on-apkmirror.png">]&#40;https://www.apkmirror.com/apk/proninyaroslav/FullTorrent&#41;)
 
-[comment]: <> ([<img alt="Get it on Aptoide" height="80" src="https://raw.githubusercontent.com/proninyaroslav/TachibanaGeneralLaboratories.github.io/master/images/badges/Aptoide/get-it-on-aptoide.png">]&#40;https://libretorrent.en.aptoide.com/app&#41;)
+[comment]: <> ([<img alt="Get it on Aptoide" height="80" src="https://raw.githubusercontent.com/proninyaroslav/TachibanaGeneralLaboratories.github.io/master/images/badges/Aptoide/get-it-on-aptoide.png">]&#40;https://FullTorrent.en.aptoide.com/app&#41;)
 
-[comment]: <> ([<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">]&#40;https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&#41;)
+[comment]: <> ([<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">]&#40;https://play.google.com/store/apps/details?id=org.proninyaroslav.FullTorrent&#41;)
 
-[comment]: <> (**Mirror:** https://proninyaroslav.ru/mirror/libretorrent/)
+[comment]: <> (**Mirror:** https://proninyaroslav.ru/mirror/FullTorrent/)
 
-[comment]: <> (**Issues**: https://gitlab.com/proninyaroslav/libretorrent/issues)
+[comment]: <> (**Issues**: https://github.com/FDweb0/fulltorent1/issues)
 
 [comment]: <> (Copylefted libre full-featured torrent client for Android.)
 
@@ -66,9 +66,9 @@ Full Torrent
 
 [comment]: <> (## 🌍 Translations)
 
-[comment]: <> (Help translate the app at [Hosted Weblate]&#40;https://hosted.weblate.org/engage/libretorrent/&#41;)
+[comment]: <> (Help translate the app at [Hosted Weblate]&#40;https://hosted.weblate.org/engage/FullTorrent/&#41;)
 
-[comment]: <> (![languages]&#40;https://hosted.weblate.org/widgets/libretorrent/-/multi-auto.svg&#41;)
+[comment]: <> (![languages]&#40;https://hosted.weblate.org/widgets/FullTorrent/-/multi-auto.svg&#41;)
 
 [comment]: <> (## Donations)
 
@@ -118,9 +118,9 @@ Full Torrent
 
 [comment]: <> (    Copyright &#40;C&#41; 2016 Yaroslav Pronin <proninyaroslav@mail.ru>)
 
-[comment]: <> (    This file is part of LibreTorrent.)
+[comment]: <> (    This file is part of FullTorrent.)
 
-[comment]: <> (    LibreTorrent is free software: you can redistribute it and/or modify)
+[comment]: <> (    FullTorrent is free software: you can redistribute it and/or modify)
 
 [comment]: <> (    it under the terms of the GNU General Public License as published by)
 

@@ -9,7 +9,7 @@ Localization files are located in the [app/src/main/res/values-*](app/src/main/r
 
 ### 1. Where to begin
 
-Start by looking at the [open issues](https://gitlab.com/proninyaroslav/libretorrent/issues) to contribute code.
+Start by looking at the [open issues](https://github.com/FDweb0/fulltorent1/issues) to contribute code.
 
 Make sure to write your name and e-mail address in format `Name <e-mail>` in the license declaration above every file you make changes to.
 
