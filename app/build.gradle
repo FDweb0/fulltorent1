@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 32
     defaultConfig {
         applicationId 'com.full.torrent.no.ads.private1.encrypted'
         minSdkVersion 24
-        targetSdkVersion 31
+        targetSdkVersion 32
         versionCode 25
         /*
          * Convection:
