@@ -529,6 +529,8 @@
     <string name="pref_proxy_requires_auth_summary">Warning: The password is saved as a regular file.</string>
     <string name="pref_proxy_login_title">Username</string>
     <string name="pref_proxy_password_title">Password</string>
+    <string name="app_name" translatable="false">Full Torrent</string>
+
     <!-- Schedule settings -->
     <string name="pref_enable_scheduling_start_title">Start-time</string>
     <string name="pref_enable_scheduling_start_summary">Start the app at a specified time. Torrents  run according to their state before the last one is shut down.</string>

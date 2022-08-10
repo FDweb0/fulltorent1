@@ -158,8 +158,6 @@ public class MainActivity extends AppCompatActivity implements FragmentCallback 
                 true,
                 (int) getResources().getDimension(R.dimen.size_48dp),
                 (action) -> {
-                    DonationManager.INSTANCE.purchase(this);
-
                     return null;
                 }
         );
