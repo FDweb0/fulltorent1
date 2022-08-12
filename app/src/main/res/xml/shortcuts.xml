@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- NOTE: this file has sadly to be duplicated across application IDs,
+     as using a resource for targetPackage does not work -->
+
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/ic_shortcut_add">
+        <intent
+            android:action="com.full.torrent.no.ads.private1.encrypted.ADD_TORRENT_SHORTCUT"
+            android:targetClass="com.full.torrent.no.ads.private1.encrypted.ui.main.MainActivity"
+            android:targetPackage="com.full.torrent.no.ads.private1.encrypted.debug" />
+    </shortcut>
+
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/ic_shortcut_rss_feed">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.full.torrent.no.ads.private1.encrypted.ui.addfeed.AddFeedActivity"
+            android:targetPackage="com.full.torrent.no.ads.private1.encrypted.debug" />
+    </shortcut>
+</shortcuts>
