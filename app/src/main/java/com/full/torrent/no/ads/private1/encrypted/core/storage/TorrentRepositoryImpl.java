@@ -72,6 +72,7 @@ public class TorrentRepositoryImpl implements TorrentRepository {
         return db.torrentDao().getTorrentById(id);
     }
 
+
     @Override
     public Single<Torrent> getTorrentByIdSingle(@NonNull String id) {
         return db.torrentDao().getTorrentByIdSingle(id);

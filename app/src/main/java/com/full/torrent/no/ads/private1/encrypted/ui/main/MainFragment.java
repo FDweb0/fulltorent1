@@ -334,15 +334,20 @@ public class MainFragment extends Fragment
     {
         return viewModel.getAllTorrentsInfoSingle()
                 .subscribeOn(Schedulers.io())
-                .flatMap((infoList) ->
-                        Observable.fromIterable(infoList)
-                                .filter(viewModel.getFilter())
-                                .map(TorrentListItem::new)
-                                .sorted(viewModel.getSorting())
-                                .toList()
+                .flatMap((infoList) -> {
+                            Log.d("MYTAG", "infoList LIST : " + infoList.size());
+                            return Observable.fromIterable(infoList)
+                                    .filter(viewModel.getFilter())
+                                    .map(TorrentListItem::new)
+                                    .sorted(viewModel.getSorting())
+                                    .toList();
+                        }
                 )
                 .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(adapter::submitList,
+                .subscribe(list -> {
+                            Log.d("MYTAG", "SUBMIT LIST : " + list.size());
+                            adapter.submitList(list);
+                        },
                         (Throwable t) -> Log.e(TAG, "Getting torrent info list error: " +
                                 Log.getStackTraceString(t)));
     }

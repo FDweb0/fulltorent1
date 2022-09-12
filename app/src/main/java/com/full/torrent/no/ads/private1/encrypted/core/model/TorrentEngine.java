@@ -856,7 +856,7 @@ public class TorrentEngine
 
     public List<TorrentInfo> makeInfoListSync() {
         ArrayList<TorrentInfo> stateList = new ArrayList<>();
-
+        Log.d("MYTAG","RUN");
         for (Torrent torrent : repo.getAllTorrents()) {
             if (torrent == null) {
                 continue;
@@ -864,7 +864,7 @@ public class TorrentEngine
             List<TagInfo> tags = tagRepo.getByTorrentId(torrent.id);
             stateList.add(makeInfo(torrent, tags));
         }
-
+        Log.d("MYTAG","SIZE : "+stateList.size());
         return stateList;
     }
 
